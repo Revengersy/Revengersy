@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+👀 I’m interested in Reading Books, Board Games
+🔨 I’m currently learning Python for Data Analysis, Java for Backend Programming
+📫 How to reach me: ficwj22@gmail.com
+⚡ Fun fact: I’ve been a dancer for 2 years 🕺
+
 <!--
 **Revengersy/Revengersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
